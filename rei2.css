@@ -29,16 +29,20 @@ font-family: 'Hiragino Kaku Gothic ProN','ヒラギノ角ゴ ProN W3','メイリ
 
 .r {
 	color:red;
+	font-size: 40px;
 }
 
 .g {
 	color:green;
+	font-size: 40px;
 }
 
 .b {
 	color:blue;
+	font-size: 40px;
 }
 
 .y {
 	color:yellow;
+	font-size: 40px;
 }
